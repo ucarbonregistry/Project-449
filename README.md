@@ -56,6 +56,10 @@ Project Capacity (MWAC) 4.07 District Bharuch Village Sarod Taluka Jambusar Stat
 
 Latitude 22.1614° N Longitude 72.74897° E
 _____________
+Project Capacity (MWAC) 1.8 District Panchmahal Village Kadachala Taluka Halol State Country India Status: Operational
+
+Latitude 22.39226° N Longitude 73.47468° E
+_____________
 ISSUANCE DATE: 04/09/2025
 
 MP-01: 01/08/2019-31/12/2024
