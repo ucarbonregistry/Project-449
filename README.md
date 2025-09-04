@@ -1,15 +1,12 @@
 # Project-449
 9.62 MW Bundled Solar Power Project by Panoli Intermediates (India) Pvt Ltd. in Gujarat, India
-
-First CoU Issuance Period: 05 Years
-
-Issuance Period: 15/06/2019 to 30/06/2024
-____________
+___________
 The project 9.62 MW Bundled Solar Power Project by Panoli Intermediates (India) Pvt Ltd. in
 Gujarat, India is located in Rupnagar Village, Sami Taluka, Patan District, Sarod Village,
 Jambusar Taluka, Bharuch District and Kadachala Village, Halol Taluka, Panchmahal District of
 Indian State Gujarat. The project is an operational activity with continuous reduction of GHG,
 currently being applied under “Universal Carbon Registry” (UCR).
+
 Purpose of the project activity:
 The purpose of the project activity is to generate electricity using a clean and renewable source of
 energy i.e., solar energy. The project activity of 9.62 MW (3.75 MW 4.07 MW) was installed and
@@ -45,6 +42,19 @@ _____________________
 The estimated annual average and the total CO2e emission reduction by the project activity is
 expected to be 15,168 tCO2e, whereas actual emission reduction achieved during the first CoU
 period shall be submitted as a part of first monitoring and verification. 
+
+Details of Latitude &Longitude for the project site: 
+_________
+
+- Project Proponent M/s. Panoli Intermediates (India) Pvt Ltd.
+_________
+Project Capacity (MWAC) 3.75  Village: Rupnagar Taluka: Sami District: Patan State: Gujarat Country: India Status: Operational
+
+Latitude 23.65724° N Longitude 71.57923° E
+_______________
+Project Capacity (MWAC) 4.07 District Bharuch Village Sarod Taluka Jambusar State Country India Status: Operational
+
+Latitude 22.1614° N Longitude 72.74897° E
 _____________
 ISSUANCE DATE: 04/09/2025
 
